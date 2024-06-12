@@ -1,2 +1,1 @@
-# HSBCMLBootCamp
-12th June ML Bootcamp Jenkins
+This is sample CICD with python
